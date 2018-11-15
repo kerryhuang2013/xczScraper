@@ -1,0 +1,26 @@
+{
+  "name": "xczscraper",
+  "version": "0.0.1",
+  "description": "crawl poetry data from http://lib.xcz.im/library using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerryhuang2013/xczScraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "kerryhuang2013",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerryhuang2013/xczScraper/issues"
+  },
+  "homepage": "https://github.com/kerryhuang2013/xczScraper#readme",
+  "dependencies": {
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.6"
+  }
+}
